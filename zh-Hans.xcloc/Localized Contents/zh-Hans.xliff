@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Mastoot/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="zh-Hans">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4" build-num="13F17a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Mastoot</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
+        <source/>
+        <note>Privacy - Photo Library Additions Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Mastoot/Resources/en.lproj/Localizable.strings" source-language="en" target-language="zh-Hans" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4" build-num="13F17a"/>
+    </header>
+    <body>
+      <trans-unit id="%@ boosted" xml:space="preserve">
+        <source>%@ boosted</source>
+        <target>%@转嘟了</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ boosted your post" xml:space="preserve">
+        <source>%@ boosted your post</source>
+        <target>%@转嘟了你的嘟文</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ favorited your post" xml:space="preserve">
+        <source>%@ favorited your post</source>
+        <target>%@喜欢了你的嘟文</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ followed you" xml:space="preserve">
+        <source>%@ followed you</source>
+        <target>%@开始关注你</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ has requested to follow you" xml:space="preserve">
+        <source>%@ has requested to follow you</source>
+        <target>%@向你发送了关注请求</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ just posted" xml:space="preserve">
+        <source>%@ just posted</source>
+        <target>%@刚刚发嘟</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="1 Day" xml:space="preserve">
+        <source>1 Day</source>
+        <target>1天</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="1 Hour" xml:space="preserve">
+        <source>1 Hour</source>
+        <target>1小时</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="3 Days" xml:space="preserve">
+        <source>3 Days</source>
+        <target>3天</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="5 Minutes" xml:space="preserve">
+        <source>5 Minutes</source>
+        <target>5分钟</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="6 Hours" xml:space="preserve">
+        <source>6 Hours</source>
+        <target>6小时</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="7 Days" xml:space="preserve">
+        <source>7 Days</source>
+        <target>7天</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="30 Minutes" xml:space="preserve">
+        <source>30 Minutes</source>
+        <target>30分钟</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="A poll you have voted in has ended" xml:space="preserve">
+        <source>A poll you have voted in has ended</source>
+        <target>你参与的一个投票已经结束</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ANIMATED" xml:space="preserve">
+        <source>ANIMATED</source>
+        <target>动图</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="AUDIO" xml:space="preserve">
+        <source>AUDIO</source>
+        <target>音频</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About Mastoot" xml:space="preserve">
+        <source>About Mastoot</source>
+        <target>关于Mastoot</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Accounts" xml:space="preserve">
+        <source>Accounts</source>
+        <target>帐户</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add Account…" xml:space="preserve">
+        <source>Add Account…</source>
+        <target>添加帐户…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add Poll Choice" xml:space="preserve">
+        <source>Add Poll Choice</source>
+        <target>添加投票选项</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="All" xml:space="preserve">
+        <source>All</source>
+        <target>全部</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Allow Multiple Choice" xml:space="preserve">
+        <source>Allow Multiple Choice</source>
+        <target>允许多选</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="App Icon" xml:space="preserve">
+        <source>App Icon</source>
+        <target>App图标</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Are you really, really sure you want to block the entire %@?" xml:space="preserve">
+        <source>Are you really, really sure you want to block the entire %@?</source>
+        <target>你真的确定要屏蔽所有来自%@的内容吗？</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want delete this post?" xml:space="preserve">
+        <source>Are you sure you want delete this post?</source>
+        <target>你确定要删除这条嘟文吗？</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to block @%@?" xml:space="preserve">
+        <source>Are you sure you want to block @%@?</source>
+        <target>你确定要屏蔽@%@吗？</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to mute @%@?" xml:space="preserve">
+        <source>Are you sure you want to mute @%@?</source>
+        <target>你确定要隐藏@%@吗？</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="BOT" xml:space="preserve">
+        <source>BOT</source>
+        <target>机器人</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Block" xml:space="preserve">
+        <source>Block</source>
+        <target>屏蔽</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Block Domain…" xml:space="preserve">
+        <source>Block Domain…</source>
+        <target>屏蔽域名…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Blocked Domains" xml:space="preserve">
+        <source>Blocked Domains</source>
+        <target>已屏蔽的域名</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Blocked Users" xml:space="preserve">
+        <source>Blocked Users</source>
+        <target>已屏蔽的用户</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Block…" xml:space="preserve">
+        <source>Block…</source>
+        <target>屏蔽…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Bookmark" xml:space="preserve">
+        <source>Bookmark</source>
+        <target>添加书签</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Bookmarks" xml:space="preserve">
+        <source>Bookmarks</source>
+        <target>书签</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Boost" xml:space="preserve">
+        <source>Boost</source>
+        <target>转嘟</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Boosted By" xml:space="preserve">
+        <source>Boosted By</source>
+        <target>转嘟者</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Boosts" xml:space="preserve">
+        <source>Boosts</source>
+        <target>转嘟</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Bug Reports" xml:space="preserve">
+        <source>Bug Reports</source>
+        <target>错误报告</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <target>取消</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Clear Cache" xml:space="preserve">
+        <source>Clear Cache</source>
+        <target>清除缓存</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Close %@" xml:space="preserve">
+        <source>Close %@</source>
+        <target>%@关闭</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Closed" xml:space="preserve">
+        <source>Closed</source>
+        <target>已关闭</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Comments" xml:space="preserve">
+        <source>Comments</source>
+        <target>备注</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Content Warning" xml:space="preserve">
+        <source>Content Warning</source>
+        <target>内容警告</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DOMAIN BLOCKED" xml:space="preserve">
+        <source>DOMAIN BLOCKED</source>
+        <target>域名已屏蔽</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Default" xml:space="preserve">
+        <source>Default</source>
+        <target>默认</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete" xml:space="preserve">
+        <source>Delete</source>
+        <target>删除</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete…" xml:space="preserve">
+        <source>Delete…</source>
+        <target>删除…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Developer" xml:space="preserve">
+        <source>Developer</source>
+        <target>开发者</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Downloading…" xml:space="preserve">
+        <source>Downloading…</source>
+        <target>正在下载…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Explore" xml:space="preserve">
+        <source>Explore</source>
+        <target>探索</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FOLLOW" xml:space="preserve">
+        <source>FOLLOW</source>
+        <target>关注</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FOLLOWING" xml:space="preserve">
+        <source>FOLLOWING</source>
+        <target>正在关注</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FOLLOWS YOU" xml:space="preserve">
+        <source>FOLLOWS YOU</source>
+        <target>关注了你</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Faild to Load Results" xml:space="preserve">
+        <source>Faild to Load Results</source>
+        <target>载入结果失败</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Download" xml:space="preserve">
+        <source>Failed to Download</source>
+        <target>下载失败</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Load" xml:space="preserve">
+        <source>Failed to Load</source>
+        <target>载入失败</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Load Blocked Domains" xml:space="preserve">
+        <source>Failed to Load Blocked Domains</source>
+        <target>载入已屏蔽的域名失败</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Load Bookmarks" xml:space="preserve">
+        <source>Failed to Load Bookmarks</source>
+        <target>载入书签失败</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Load Favorites" xml:space="preserve">
+        <source>Failed to Load Favorites</source>
+        <target>载入喜欢失败</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Load Follow Requests" xml:space="preserve">
+        <source>Failed to Load Follow Requests</source>
+        <target>载入关注请求失败</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Load Hashtags" xml:space="preserve">
+        <source>Failed to Load Hashtags</source>
+        <target>载入话题标签失败</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Load Messages" xml:space="preserve">
+        <source>Failed to Load Messages</source>
+        <target>载入私信失败</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Load Notifications" xml:space="preserve">
+        <source>Failed to Load Notifications</source>
+        <target>载入通知失败</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Load Posts" xml:space="preserve">
+        <source>Failed to Load Posts</source>
+        <target>载入嘟文失败</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Load Users" xml:space="preserve">
+        <source>Failed to Load Users</source>
+        <target>载入用户失败</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Publish" xml:space="preserve">
+        <source>Failed to Publish</source>
+        <target>发布失败</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Upload" xml:space="preserve">
+        <source>Failed to Upload</source>
+        <target>上传失败</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Favorite" xml:space="preserve">
+        <source>Favorite</source>
+        <target>喜欢</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Favorited By" xml:space="preserve">
+        <source>Favorited By</source>
+        <target>喜欢者</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Favorites" xml:space="preserve">
+        <source>Favorites</source>
+        <target>喜欢</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Feature Requests" xml:space="preserve">
+        <source>Feature Requests</source>
+        <target>功能请求</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Federated Timeline" xml:space="preserve">
+        <source>Federated Timeline</source>
+        <target>跨站时间轴</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Follow Requests" xml:space="preserve">
+        <source>Follow Requests</source>
+        <target>关注请求</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Followers" xml:space="preserve">
+        <source>Followers</source>
+        <target>关注者</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Followers Only" xml:space="preserve">
+        <source>Followers Only</source>
+        <target>仅关注者</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Following" xml:space="preserve">
+        <source>Following</source>
+        <target>正在关注</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Forward to %@" xml:space="preserve">
+        <source>Forward to %@</source>
+        <target>转发至%@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hashtags" xml:space="preserve">
+        <source>Hashtags</source>
+        <target>话题标签</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hide Media" xml:space="preserve">
+        <source>Hide Media</source>
+        <target>隐藏媒体</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Home" xml:space="preserve">
+        <source>Home</source>
+        <target>主页</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="In most cases a few targeted blocks or mutes are sufficient and preferable. You will not see content from that domain in any public timelines or your notifications. Your followers from that domain will be removed." xml:space="preserve">
+        <source>In most cases a few targeted blocks or mutes are sufficient and preferable. You will not see content from that domain in any public timelines or your notifications. Your followers from that domain will be removed.</source>
+        <target>多数情况下，屏蔽或隐藏几个特定的用户就已经足够了。来自该网站的内容将不再出现在你的任何公共时间轴或通知列表里。来自该网站的关注者将会被移除。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LOADING" xml:space="preserve">
+        <source>LOADING</source>
+        <target>正在载入</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Learn more…" xml:space="preserve">
+        <source>Learn more…</source>
+        <target> 了解更多…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Loading…" xml:space="preserve">
+        <source>Loading…</source>
+        <target>正在载入…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Local Timeline" xml:space="preserve">
+        <source>Local Timeline</source>
+        <target>本站时间轴</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="MUTED" xml:space="preserve">
+        <source>MUTED</source>
+        <target>已隐藏</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mark Media as Sensitive" xml:space="preserve">
+        <source>Mark Media as Sensitive</source>
+        <target>标记媒体为敏感内容</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Media" xml:space="preserve">
+        <source>Media</source>
+        <target>媒体</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Media Hidden" xml:space="preserve">
+        <source>Media Hidden</source>
+        <target>媒体已隐藏</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mentioned People Only" xml:space="preserve">
+        <source>Mentioned People Only</source>
+        <target>仅提到的人</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mentions" xml:space="preserve">
+        <source>Mentions</source>
+        <target>提及</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Messages" xml:space="preserve">
+        <source>Messages</source>
+        <target>私信</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="More" xml:space="preserve">
+        <source>More</source>
+        <target>更多</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mute" xml:space="preserve">
+        <source>Mute</source>
+        <target>隐藏</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Muted Users" xml:space="preserve">
+        <source>Muted Users</source>
+        <target>已隐藏的用户</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mute…" xml:space="preserve">
+        <source>Mute…</source>
+        <target>隐藏…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New Post" xml:space="preserve">
+        <source>New Post</source>
+        <target>新嘟文</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New Reply" xml:space="preserve">
+        <source>New Reply</source>
+        <target>新回复</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Blocked Domains" xml:space="preserve">
+        <source>No Blocked Domains</source>
+        <target>无已屏蔽的域名</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Bookmarks" xml:space="preserve">
+        <source>No Bookmarks</source>
+        <target>无书签</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Favorites" xml:space="preserve">
+        <source>No Favorites</source>
+        <target>无喜欢</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Follow Requests" xml:space="preserve">
+        <source>No Follow Requests</source>
+        <target>无关注请求</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Followers" xml:space="preserve">
+        <source>No Followers</source>
+        <target>无关注者</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Following" xml:space="preserve">
+        <source>No Following</source>
+        <target>无正在关注</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Hashtags" xml:space="preserve">
+        <source>No Hashtags</source>
+        <target>无话题标签</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Messages" xml:space="preserve">
+        <source>No Messages</source>
+        <target>无私信</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Notifications" xml:space="preserve">
+        <source>No Notifications</source>
+        <target>无通知</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Posts" xml:space="preserve">
+        <source>No Posts</source>
+        <target>无嘟文</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Results" xml:space="preserve">
+        <source>No Results</source>
+        <target>无结果</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Users" xml:space="preserve">
+        <source>No Users</source>
+        <target>无用户</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Notifications" xml:space="preserve">
+        <source>Notifications</source>
+        <target>通知</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <target>好</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open in Browser" xml:space="preserve">
+        <source>Open in Browser</source>
+        <target>在浏览器中打开</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pinned" xml:space="preserve">
+        <source>Pinned</source>
+        <target>置顶</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Poll Choice" xml:space="preserve">
+        <source>Poll Choice</source>
+        <target>投票选项</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Poll Duration" xml:space="preserve">
+        <source>Poll Duration</source>
+        <target>投票时长</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Post" xml:space="preserve">
+        <source>Post</source>
+        <target>嘟文</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Posts" xml:space="preserve">
+        <source>Posts</source>
+        <target>嘟文</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Posts &amp; Replies" xml:space="preserve">
+        <source>Posts &amp; Replies</source>
+        <target>嘟文与回复</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Posts on Mastodon are not end-to-end encrypted. Do not share any dangerous information over Mastodon. " xml:space="preserve">
+        <source>Posts on Mastodon are not end-to-end encrypted. Do not share any dangerous information over Mastodon. </source>
+        <target>Mastodon上的嘟文并未端到端加密。请不要在Mastodon上分享敏感信息。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Public" xml:space="preserve">
+        <source>Public</source>
+        <target>公开</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Public Timelines" xml:space="preserve">
+        <source>Public Timelines</source>
+        <target>公共时间轴</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Publishing…" xml:space="preserve">
+        <source>Publishing…</source>
+        <target>正在发布…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="REQUESTED" xml:space="preserve">
+        <source>REQUESTED</source>
+        <target>已发送请求</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove Bookmark" xml:space="preserve">
+        <source>Remove Bookmark</source>
+        <target>移除书签</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Replies" xml:space="preserve">
+        <source>Replies</source>
+        <target>回复</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reply" xml:space="preserve">
+        <source>Reply</source>
+        <target>回复</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Report" xml:space="preserve">
+        <source>Report</source>
+        <target>举报</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Report…" xml:space="preserve">
+        <source>Report…</source>
+        <target>举报…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Roadmap" xml:space="preserve">
+        <source>Roadmap</source>
+        <target>产品路线图</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Send" xml:space="preserve">
+        <source>Send</source>
+        <target>发送</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sensitive Content" xml:space="preserve">
+        <source>Sensitive Content</source>
+        <target>敏感内容</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Server" xml:space="preserve">
+        <source>Server</source>
+        <target>服务器</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Settings" xml:space="preserve">
+        <source>Settings</source>
+        <target>设置</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Share…" xml:space="preserve">
+        <source>Share…</source>
+        <target>共享…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show Less" xml:space="preserve">
+        <source>Show Less</source>
+        <target>隐藏内容</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show Media" xml:space="preserve">
+        <source>Show Media</source>
+        <target>显示媒体</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show More" xml:space="preserve">
+        <source>Show More</source>
+        <target>显示更多</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sign In" xml:space="preserve">
+        <source>Sign In</source>
+        <target>登录</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sign Out" xml:space="preserve">
+        <source>Sign Out</source>
+        <target>退出登录</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The user is from another server. Send an anonymized copy of the report there as well?" xml:space="preserve">
+        <source>The user is from another server. Send an anonymized copy of the report there as well?</source>
+        <target>这名用户来自另一个服务器。是否要向那个服务器发送一条匿名的举报？</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This will hide posts from them and posts mentioning them, but it will still allow them to see your posts and follow you." xml:space="preserve">
+        <source>This will hide posts from them and posts mentioning them, but it will still allow them to see your posts and follow you.</source>
+        <target>这将隐藏这名用户的嘟文以及提到这名用户的嘟文，但这名用户仍可以看到你的嘟文并关注你。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Toot" xml:space="preserve">
+        <source>Toot</source>
+        <target>嘟嘟</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Trending" xml:space="preserve">
+        <source>Trending</source>
+        <target>热门</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Trumpet" xml:space="preserve">
+        <source>Trumpet</source>
+        <target>小号</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="UNBLOCK" xml:space="preserve">
+        <source>UNBLOCK</source>
+        <target>取消屏蔽</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unblock" xml:space="preserve">
+        <source>Unblock</source>
+        <target>取消屏蔽</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unblock %@?" xml:space="preserve">
+        <source>Unblock %@?</source>
+        <target>取消屏蔽%@？</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unblock Domain…" xml:space="preserve">
+        <source>Unblock Domain…</source>
+        <target>取消屏蔽域名…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unboost" xml:space="preserve">
+        <source>Unboost</source>
+        <target>取消转嘟</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unfavorite" xml:space="preserve">
+        <source>Unfavorite</source>
+        <target>取消喜欢</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unlisted" xml:space="preserve">
+        <source>Unlisted</source>
+        <target>不公开</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unmute" xml:space="preserve">
+        <source>Unmute</source>
+        <target>取消隐藏</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unsupported Type" xml:space="preserve">
+        <source>Unsupported Type</source>
+        <target>不支持的类型</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Uploading…" xml:space="preserve">
+        <source>Uploading…</source>
+        <target>正在上传…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Users" xml:space="preserve">
+        <source>Users</source>
+        <target>用户</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="VIDEO" xml:space="preserve">
+        <source>VIDEO</source>
+        <target>视频</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Version" xml:space="preserve">
+        <source>Version</source>
+        <target>版本</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Visible for all, but opted-out of discovery features." xml:space="preserve">
+        <source>Visible for all, but opted-out of discovery features.</source>
+        <target>对所有人可见，但不加入探索功能。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Visible for all." xml:space="preserve">
+        <source>Visible for all.</source>
+        <target>所有人可见。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Visible for followers only." xml:space="preserve">
+        <source>Visible for followers only.</source>
+        <target>只有关注你的用户能看到。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Visible for mentioned users only." xml:space="preserve">
+        <source>Visible for mentioned users only.</source>
+        <target>只有被提及的用户能看到。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Vote" xml:space="preserve">
+        <source>Vote</source>
+        <target>投票</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="What’s on your mind?" xml:space="preserve">
+        <source>What’s on your mind?</source>
+        <target>在想什么？</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your poll has ended" xml:space="preserve">
+        <source>Your poll has ended</source>
+        <target>你的投票已经结束</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="NotificationService/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="zh-Hans">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4" build-num="13F17a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>NotificationService</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>NotificationService</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

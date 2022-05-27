@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Mastoot/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4" build-num="13F17a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Mastoot</source>
+        <target>Mastoot</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
+        <source/>
+        <target/>
+        <note>Privacy - Photo Library Additions Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Mastoot/Resources/en.lproj/Localizable.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4" build-num="13F17a"/>
+    </header>
+    <body>
+      <trans-unit id="%@ boosted" xml:space="preserve">
+        <source>%@ boosted</source>
+        <target>%@ boosted</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ boosted your post" xml:space="preserve">
+        <source>%@ boosted your post</source>
+        <target>%@ boosted your post</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ favorited your post" xml:space="preserve">
+        <source>%@ favorited your post</source>
+        <target>%@ favorited your post</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ followed you" xml:space="preserve">
+        <source>%@ followed you</source>
+        <target>%@ followed you</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ has requested to follow you" xml:space="preserve">
+        <source>%@ has requested to follow you</source>
+        <target>%@ has requested to follow you</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ just posted" xml:space="preserve">
+        <source>%@ just posted</source>
+        <target>%@ just posted</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="1 Day" xml:space="preserve">
+        <source>1 Day</source>
+        <target>1 Day</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="1 Hour" xml:space="preserve">
+        <source>1 Hour</source>
+        <target>1 Hour</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="3 Days" xml:space="preserve">
+        <source>3 Days</source>
+        <target>3 Days</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="5 Minutes" xml:space="preserve">
+        <source>5 Minutes</source>
+        <target>5 Minutes</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="6 Hours" xml:space="preserve">
+        <source>6 Hours</source>
+        <target>6 Hours</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="7 Days" xml:space="preserve">
+        <source>7 Days</source>
+        <target>7 Days</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="30 Minutes" xml:space="preserve">
+        <source>30 Minutes</source>
+        <target>30 Minutes</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="A poll you have voted in has ended" xml:space="preserve">
+        <source>A poll you have voted in has ended</source>
+        <target>A poll you have voted in has ended</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ANIMATED" xml:space="preserve">
+        <source>ANIMATED</source>
+        <target>ANIMATED</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="AUDIO" xml:space="preserve">
+        <source>AUDIO</source>
+        <target>AUDIO</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About Mastoot" xml:space="preserve">
+        <source>About Mastoot</source>
+        <target>About Mastoot</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Accounts" xml:space="preserve">
+        <source>Accounts</source>
+        <target>Accounts</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add Account…" xml:space="preserve">
+        <source>Add Account…</source>
+        <target>Add Account…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add Poll Choice" xml:space="preserve">
+        <source>Add Poll Choice</source>
+        <target>Add Poll Choice</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="All" xml:space="preserve">
+        <source>All</source>
+        <target>All</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Allow Multiple Choice" xml:space="preserve">
+        <source>Allow Multiple Choice</source>
+        <target>Allow Multiple Choice</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="App Icon" xml:space="preserve">
+        <source>App Icon</source>
+        <target>App Icon</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Are you really, really sure you want to block the entire %@?" xml:space="preserve">
+        <source>Are you really, really sure you want to block the entire %@?</source>
+        <target>Are you really, really sure you want to block the entire %@?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want delete this post?" xml:space="preserve">
+        <source>Are you sure you want delete this post?</source>
+        <target>Are you sure you want delete this post?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to block @%@?" xml:space="preserve">
+        <source>Are you sure you want to block @%@?</source>
+        <target>Are you sure you want to block @%@?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to mute @%@?" xml:space="preserve">
+        <source>Are you sure you want to mute @%@?</source>
+        <target>Are you sure you want to mute @%@?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="BOT" xml:space="preserve">
+        <source>BOT</source>
+        <target>BOT</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Block" xml:space="preserve">
+        <source>Block</source>
+        <target>Block</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Block Domain…" xml:space="preserve">
+        <source>Block Domain…</source>
+        <target>Block Domain…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Blocked Domains" xml:space="preserve">
+        <source>Blocked Domains</source>
+        <target>Blocked Domains</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Blocked Users" xml:space="preserve">
+        <source>Blocked Users</source>
+        <target>Blocked Users</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Block…" xml:space="preserve">
+        <source>Block…</source>
+        <target>Block…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Bookmark" xml:space="preserve">
+        <source>Bookmark</source>
+        <target>Bookmark</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Bookmarks" xml:space="preserve">
+        <source>Bookmarks</source>
+        <target>Bookmarks</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Boost" xml:space="preserve">
+        <source>Boost</source>
+        <target>Boost</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Boosted By" xml:space="preserve">
+        <source>Boosted By</source>
+        <target>Boosted By</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Boosts" xml:space="preserve">
+        <source>Boosts</source>
+        <target>Boosts</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Bug Reports" xml:space="preserve">
+        <source>Bug Reports</source>
+        <target>Bug Reports</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Clear Cache" xml:space="preserve">
+        <source>Clear Cache</source>
+        <target>Clear Cache</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Close %@" xml:space="preserve">
+        <source>Close %@</source>
+        <target>Close %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Closed" xml:space="preserve">
+        <source>Closed</source>
+        <target>Closed</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Comments" xml:space="preserve">
+        <source>Comments</source>
+        <target>Comments</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Content Warning" xml:space="preserve">
+        <source>Content Warning</source>
+        <target>Content Warning</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DOMAIN BLOCKED" xml:space="preserve">
+        <source>DOMAIN BLOCKED</source>
+        <target>DOMAIN BLOCKED</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Default" xml:space="preserve">
+        <source>Default</source>
+        <target>Default</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete" xml:space="preserve">
+        <source>Delete</source>
+        <target>Delete</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete…" xml:space="preserve">
+        <source>Delete…</source>
+        <target>Delete…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Developer" xml:space="preserve">
+        <source>Developer</source>
+        <target>Developer</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Downloading…" xml:space="preserve">
+        <source>Downloading…</source>
+        <target>Downloading…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Explore" xml:space="preserve">
+        <source>Explore</source>
+        <target>Explore</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FOLLOW" xml:space="preserve">
+        <source>FOLLOW</source>
+        <target>FOLLOW</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FOLLOWING" xml:space="preserve">
+        <source>FOLLOWING</source>
+        <target>FOLLOWING</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FOLLOWS YOU" xml:space="preserve">
+        <source>FOLLOWS YOU</source>
+        <target>FOLLOWS YOU</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Faild to Load Results" xml:space="preserve">
+        <source>Faild to Load Results</source>
+        <target>Faild to Load Results</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Download" xml:space="preserve">
+        <source>Failed to Download</source>
+        <target>Failed to Download</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Load" xml:space="preserve">
+        <source>Failed to Load</source>
+        <target>Failed to Load</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Load Blocked Domains" xml:space="preserve">
+        <source>Failed to Load Blocked Domains</source>
+        <target>Failed to Load Blocked Domains</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Load Bookmarks" xml:space="preserve">
+        <source>Failed to Load Bookmarks</source>
+        <target>Failed to Load Bookmarks</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Load Favorites" xml:space="preserve">
+        <source>Failed to Load Favorites</source>
+        <target>Failed to Load Favorites</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Load Follow Requests" xml:space="preserve">
+        <source>Failed to Load Follow Requests</source>
+        <target>Failed to Load Follow Requests</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Load Hashtags" xml:space="preserve">
+        <source>Failed to Load Hashtags</source>
+        <target>Failed to Load Hashtags</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Load Messages" xml:space="preserve">
+        <source>Failed to Load Messages</source>
+        <target>Failed to Load Messages</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Load Notifications" xml:space="preserve">
+        <source>Failed to Load Notifications</source>
+        <target>Failed to Load Notifications</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Load Posts" xml:space="preserve">
+        <source>Failed to Load Posts</source>
+        <target>Failed to Load Posts</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Load Users" xml:space="preserve">
+        <source>Failed to Load Users</source>
+        <target>Failed to Load Users</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Publish" xml:space="preserve">
+        <source>Failed to Publish</source>
+        <target>Failed to Publish</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Upload" xml:space="preserve">
+        <source>Failed to Upload</source>
+        <target>Failed to Upload</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Favorite" xml:space="preserve">
+        <source>Favorite</source>
+        <target>Favorite</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Favorited By" xml:space="preserve">
+        <source>Favorited By</source>
+        <target>Favorited By</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Favorites" xml:space="preserve">
+        <source>Favorites</source>
+        <target>Favorites</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Feature Requests" xml:space="preserve">
+        <source>Feature Requests</source>
+        <target>Feature Requests</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Federated Timeline" xml:space="preserve">
+        <source>Federated Timeline</source>
+        <target>Federated Timeline</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Follow Requests" xml:space="preserve">
+        <source>Follow Requests</source>
+        <target>Follow Requests</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Followers" xml:space="preserve">
+        <source>Followers</source>
+        <target>Followers</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Followers Only" xml:space="preserve">
+        <source>Followers Only</source>
+        <target>Followers Only</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Following" xml:space="preserve">
+        <source>Following</source>
+        <target>Following</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Forward to %@" xml:space="preserve">
+        <source>Forward to %@</source>
+        <target>Forward to %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hashtags" xml:space="preserve">
+        <source>Hashtags</source>
+        <target>Hashtags</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hide Media" xml:space="preserve">
+        <source>Hide Media</source>
+        <target>Hide Media</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Home" xml:space="preserve">
+        <source>Home</source>
+        <target>Home</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="In most cases a few targeted blocks or mutes are sufficient and preferable. You will not see content from that domain in any public timelines or your notifications. Your followers from that domain will be removed." xml:space="preserve">
+        <source>In most cases a few targeted blocks or mutes are sufficient and preferable. You will not see content from that domain in any public timelines or your notifications. Your followers from that domain will be removed.</source>
+        <target>In most cases a few targeted blocks or mutes are sufficient and preferable. You will not see content from that domain in any public timelines or your notifications. Your followers from that domain will be removed.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LOADING" xml:space="preserve">
+        <source>LOADING</source>
+        <target>LOADING</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Learn more…" xml:space="preserve">
+        <source>Learn more…</source>
+        <target>Learn more…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Loading…" xml:space="preserve">
+        <source>Loading…</source>
+        <target>Loading…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Local Timeline" xml:space="preserve">
+        <source>Local Timeline</source>
+        <target>Local Timeline</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="MUTED" xml:space="preserve">
+        <source>MUTED</source>
+        <target>MUTED</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mark Media as Sensitive" xml:space="preserve">
+        <source>Mark Media as Sensitive</source>
+        <target>Mark Media as Sensitive</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Media" xml:space="preserve">
+        <source>Media</source>
+        <target>Media</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Media Hidden" xml:space="preserve">
+        <source>Media Hidden</source>
+        <target>Media Hidden</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mentioned People Only" xml:space="preserve">
+        <source>Mentioned People Only</source>
+        <target>Mentioned People Only</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mentions" xml:space="preserve">
+        <source>Mentions</source>
+        <target>Mentions</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Messages" xml:space="preserve">
+        <source>Messages</source>
+        <target>Messages</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="More" xml:space="preserve">
+        <source>More</source>
+        <target>More</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mute" xml:space="preserve">
+        <source>Mute</source>
+        <target>Mute</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Muted Users" xml:space="preserve">
+        <source>Muted Users</source>
+        <target>Muted Users</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mute…" xml:space="preserve">
+        <source>Mute…</source>
+        <target>Mute…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New Post" xml:space="preserve">
+        <source>New Post</source>
+        <target>New Post</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New Reply" xml:space="preserve">
+        <source>New Reply</source>
+        <target>New Reply</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Blocked Domains" xml:space="preserve">
+        <source>No Blocked Domains</source>
+        <target>No Blocked Domains</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Bookmarks" xml:space="preserve">
+        <source>No Bookmarks</source>
+        <target>No Bookmarks</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Favorites" xml:space="preserve">
+        <source>No Favorites</source>
+        <target>No Favorites</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Follow Requests" xml:space="preserve">
+        <source>No Follow Requests</source>
+        <target>No Follow Requests</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Followers" xml:space="preserve">
+        <source>No Followers</source>
+        <target>No Followers</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Following" xml:space="preserve">
+        <source>No Following</source>
+        <target>No Following</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Hashtags" xml:space="preserve">
+        <source>No Hashtags</source>
+        <target>No Hashtags</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Messages" xml:space="preserve">
+        <source>No Messages</source>
+        <target>No Messages</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Notifications" xml:space="preserve">
+        <source>No Notifications</source>
+        <target>No Notifications</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Posts" xml:space="preserve">
+        <source>No Posts</source>
+        <target>No Posts</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Results" xml:space="preserve">
+        <source>No Results</source>
+        <target>No Results</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Users" xml:space="preserve">
+        <source>No Users</source>
+        <target>No Users</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Notifications" xml:space="preserve">
+        <source>Notifications</source>
+        <target>Notifications</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <target>OK</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open in Browser" xml:space="preserve">
+        <source>Open in Browser</source>
+        <target>Open in Browser</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pinned" xml:space="preserve">
+        <source>Pinned</source>
+        <target>Pinned</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Poll Choice" xml:space="preserve">
+        <source>Poll Choice</source>
+        <target>Poll Choice</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Poll Duration" xml:space="preserve">
+        <source>Poll Duration</source>
+        <target>Poll Duration</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Post" xml:space="preserve">
+        <source>Post</source>
+        <target>Post</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Posts" xml:space="preserve">
+        <source>Posts</source>
+        <target>Posts</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Posts &amp; Replies" xml:space="preserve">
+        <source>Posts &amp; Replies</source>
+        <target>Posts &amp; Replies</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Posts on Mastodon are not end-to-end encrypted. Do not share any dangerous information over Mastodon. " xml:space="preserve">
+        <source>Posts on Mastodon are not end-to-end encrypted. Do not share any dangerous information over Mastodon. </source>
+        <target>Posts on Mastodon are not end-to-end encrypted. Do not share any dangerous information over Mastodon. </target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Public" xml:space="preserve">
+        <source>Public</source>
+        <target>Public</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Public Timelines" xml:space="preserve">
+        <source>Public Timelines</source>
+        <target>Public Timelines</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Publishing…" xml:space="preserve">
+        <source>Publishing…</source>
+        <target>Publishing…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="REQUESTED" xml:space="preserve">
+        <source>REQUESTED</source>
+        <target>REQUESTED</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove Bookmark" xml:space="preserve">
+        <source>Remove Bookmark</source>
+        <target>Remove Bookmark</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Replies" xml:space="preserve">
+        <source>Replies</source>
+        <target>Replies</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reply" xml:space="preserve">
+        <source>Reply</source>
+        <target>Reply</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Report" xml:space="preserve">
+        <source>Report</source>
+        <target>Report</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Report…" xml:space="preserve">
+        <source>Report…</source>
+        <target>Report…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Roadmap" xml:space="preserve">
+        <source>Roadmap</source>
+        <target>Roadmap</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Send" xml:space="preserve">
+        <source>Send</source>
+        <target>Send</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sensitive Content" xml:space="preserve">
+        <source>Sensitive Content</source>
+        <target>Sensitive Content</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Server" xml:space="preserve">
+        <source>Server</source>
+        <target>Server</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Settings" xml:space="preserve">
+        <source>Settings</source>
+        <target>Settings</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Share…" xml:space="preserve">
+        <source>Share…</source>
+        <target>Share…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show Less" xml:space="preserve">
+        <source>Show Less</source>
+        <target>Show Less</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show Media" xml:space="preserve">
+        <source>Show Media</source>
+        <target>Show Media</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show More" xml:space="preserve">
+        <source>Show More</source>
+        <target>Show More</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sign In" xml:space="preserve">
+        <source>Sign In</source>
+        <target>Sign In</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sign Out" xml:space="preserve">
+        <source>Sign Out</source>
+        <target>Sign Out</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The user is from another server. Send an anonymized copy of the report there as well?" xml:space="preserve">
+        <source>The user is from another server. Send an anonymized copy of the report there as well?</source>
+        <target>The user is from another server. Send an anonymized copy of the report there as well?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This will hide posts from them and posts mentioning them, but it will still allow them to see your posts and follow you." xml:space="preserve">
+        <source>This will hide posts from them and posts mentioning them, but it will still allow them to see your posts and follow you.</source>
+        <target>This will hide posts from them and posts mentioning them, but it will still allow them to see your posts and follow you.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Toot" xml:space="preserve">
+        <source>Toot</source>
+        <target>Toot</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Trending" xml:space="preserve">
+        <source>Trending</source>
+        <target>Trending</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Trumpet" xml:space="preserve">
+        <source>Trumpet</source>
+        <target>Trumpet</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="UNBLOCK" xml:space="preserve">
+        <source>UNBLOCK</source>
+        <target>UNBLOCK</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unblock" xml:space="preserve">
+        <source>Unblock</source>
+        <target>Unblock</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unblock %@?" xml:space="preserve">
+        <source>Unblock %@?</source>
+        <target>Unblock %@?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unblock Domain…" xml:space="preserve">
+        <source>Unblock Domain…</source>
+        <target>Unblock Domain…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unboost" xml:space="preserve">
+        <source>Unboost</source>
+        <target>Unboost</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unfavorite" xml:space="preserve">
+        <source>Unfavorite</source>
+        <target>Unfavorite</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unlisted" xml:space="preserve">
+        <source>Unlisted</source>
+        <target>Unlisted</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unmute" xml:space="preserve">
+        <source>Unmute</source>
+        <target>Unmute</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unsupported Type" xml:space="preserve">
+        <source>Unsupported Type</source>
+        <target>Unsupported Type</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Uploading…" xml:space="preserve">
+        <source>Uploading…</source>
+        <target>Uploading…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Users" xml:space="preserve">
+        <source>Users</source>
+        <target>Users</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="VIDEO" xml:space="preserve">
+        <source>VIDEO</source>
+        <target>VIDEO</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Version" xml:space="preserve">
+        <source>Version</source>
+        <target>Version</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Visible for all, but opted-out of discovery features." xml:space="preserve">
+        <source>Visible for all, but opted-out of discovery features.</source>
+        <target>Visible for all, but opted-out of discovery features.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Visible for all." xml:space="preserve">
+        <source>Visible for all.</source>
+        <target>Visible for all.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Visible for followers only." xml:space="preserve">
+        <source>Visible for followers only.</source>
+        <target>Visible for followers only.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Visible for mentioned users only." xml:space="preserve">
+        <source>Visible for mentioned users only.</source>
+        <target>Visible for mentioned users only.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Vote" xml:space="preserve">
+        <source>Vote</source>
+        <target>Vote</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="What’s on your mind?" xml:space="preserve">
+        <source>What’s on your mind?</source>
+        <target>What’s on your mind?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your poll has ended" xml:space="preserve">
+        <source>Your poll has ended</source>
+        <target>Your poll has ended</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="NotificationService/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4" build-num="13F17a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>NotificationService</source>
+        <target>NotificationService</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>NotificationService</source>
+        <target>NotificationService</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
