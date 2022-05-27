@@ -1,0 +1,4 @@
+/* Bundle name */
+"CFBundleName" = "Mastoot";
+/* Privacy - Photo Library Additions Usage Description */
+"NSPhotoLibraryAddUsageDescription" = "";
