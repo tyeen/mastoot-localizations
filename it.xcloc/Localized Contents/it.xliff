@@ -22,7 +22,7 @@
     <body>
       <trans-unit id="%@ boosted" xml:space="preserve">
         <source>%@ boosted</source>
-        <target>%@ condiviso</target>
+        <target>Condiviso da %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ boosted your post" xml:space="preserve">
@@ -32,7 +32,7 @@
       </trans-unit>
       <trans-unit id="%@ favorited your post" xml:space="preserve">
         <source>%@ favorited your post</source>
-        <target>%@ ha apprezzato post</target>
+        <target>%@ ha apprezzato il tuo post</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ followed you" xml:space="preserve">
@@ -117,7 +117,7 @@
       </trans-unit>
       <trans-unit id="Add Poll Choice" xml:space="preserve">
         <source>Add Poll Choice</source>
-        <target>Aggiungi risposta al sondaggio</target>
+        <target>Aggiungi altra scelta al sondaggio</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
