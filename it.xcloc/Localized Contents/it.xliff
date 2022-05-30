@@ -311,7 +311,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Failed to Load Blocked Domains" xml:space="preserve">
-        <source>Failed to load blocked domains</source>
+        <source>Failed to Load Blocked Domains</source>
         <target>Errore nel caricamento dei domini bloccati</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
