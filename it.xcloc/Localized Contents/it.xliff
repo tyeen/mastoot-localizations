@@ -397,7 +397,7 @@
       </trans-unit>
       <trans-unit id="Followers" xml:space="preserve">
         <source>Followers</source>
-        <target>Follower</target>
+        <target>Ti seguono</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Followers Only" xml:space="preserve">
@@ -407,7 +407,7 @@
       </trans-unit>
       <trans-unit id="Following" xml:space="preserve">
         <source>Following</source>
-        <target>Seguendo</target>
+        <target>Segui</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Forward to %@" xml:space="preserve">
