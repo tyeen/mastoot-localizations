@@ -197,7 +197,7 @@
       </trans-unit>
       <trans-unit id="Boost" xml:space="preserve">
         <source>Boost</source>
-        <target>Condividi</target>
+        <target>Rilancia</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Boosted By" xml:space="preserve">
