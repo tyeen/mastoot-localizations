@@ -227,7 +227,7 @@
       </trans-unit>
       <trans-unit id="Close %@" xml:space="preserve">
         <source>Close %@</source>
-        <target>Chiudi %@</target>
+        <target>Chiude %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Closed" xml:space="preserve">
