@@ -22,7 +22,7 @@
     <body>
       <trans-unit id="%@ boosted" xml:space="preserve">
         <source>%@ boosted</source>
-        <target>%@ condiviso</target>
+        <target>%@ ha condiviso</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ boosted your post" xml:space="preserve">
@@ -32,7 +32,7 @@
       </trans-unit>
       <trans-unit id="%@ favorited your post" xml:space="preserve">
         <source>%@ favorited your post</source>
-        <target>%@ ha apprezzato post</target>
+        <target>%@ ha apprezzato il post</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ followed you" xml:space="preserve">
@@ -332,7 +332,7 @@
       </trans-unit>
       <trans-unit id="Failed to Load Hashtags" xml:space="preserve">
         <source>Failed to Load Hashtags</source>
-        <target>Errore nel caricamento degli Hashtag</target>
+        <target>Errore nel caricamento degli hashtag</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Failed to Load Messages" xml:space="preserve">
@@ -382,7 +382,7 @@
       </trans-unit>
       <trans-unit id="Feature Requests" xml:space="preserve">
         <source>Feature Requests</source>
-        <target>Richiesta Funzionalità</target>
+        <target>Richieste di funzionalità</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Federated Timeline" xml:space="preserve">
