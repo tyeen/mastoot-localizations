@@ -407,7 +407,7 @@
       </trans-unit>
       <trans-unit id="Following" xml:space="preserve">
         <source>Following</source>
-        <target>Segui</target>
+        <target>Stai seguengo</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Forward to %@" xml:space="preserve">
