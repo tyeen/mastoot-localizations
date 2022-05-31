@@ -22,7 +22,7 @@
     <body>
       <trans-unit id="%@ boosted" xml:space="preserve">
         <source>%@ boosted</source>
-        <target>%@ condiviso</target>
+        <target>%@ ha condiviso</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ boosted your post" xml:space="preserve">
@@ -32,12 +32,12 @@
       </trans-unit>
       <trans-unit id="%@ favorited your post" xml:space="preserve">
         <source>%@ favorited your post</source>
-        <target>%@ ha apprezzato post</target>
+        <target>%@ ha apprezzato il post</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ followed you" xml:space="preserve">
         <source>%@ followed you</source>
-        <target>%@ ti ha seguito</target>
+        <target>%@ ti segue</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ has requested to follow you" xml:space="preserve">
@@ -107,7 +107,7 @@
       </trans-unit>
       <trans-unit id="Accounts" xml:space="preserve">
         <source>Accounts</source>
-        <target>Accounts</target>
+        <target>Account</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add Account…" xml:space="preserve">
@@ -117,7 +117,7 @@
       </trans-unit>
       <trans-unit id="Add Poll Choice" xml:space="preserve">
         <source>Add Poll Choice</source>
-        <target>Aggiungi risposta al sondaggio</target>
+        <target>Aggiungi una scelta</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
@@ -187,12 +187,12 @@
       </trans-unit>
       <trans-unit id="Bookmark" xml:space="preserve">
         <source>Bookmark</source>
-        <target>Bookmark</target>
+        <target>Segnalibro</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Bookmarks" xml:space="preserve">
         <source>Bookmarks</source>
-        <target>Bookmark</target>
+        <target>Segnalibri</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Boost" xml:space="preserve">
@@ -212,11 +212,12 @@
       </trans-unit>
       <trans-unit id="Bug Reports" xml:space="preserve">
         <source>Bug Reports</source>
+        <target>Bug Report</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
-        <target>Cancella</target>
+        <target>Annulla</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Clear Cache" xml:space="preserve">
@@ -251,7 +252,7 @@
       </trans-unit>
       <trans-unit id="Default" xml:space="preserve">
         <source>Default</source>
-        <target>Default</target>
+        <target>Predefinito</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
@@ -271,7 +272,7 @@
       </trans-unit>
       <trans-unit id="Downloading…" xml:space="preserve">
         <source>Downloading…</source>
-        <target>Downloading…</target>
+        <target>Scaricando…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Explore" xml:space="preserve">
@@ -286,7 +287,7 @@
       </trans-unit>
       <trans-unit id="FOLLOWING" xml:space="preserve">
         <source>FOLLOWING</source>
-        <target>LO STAI SEGUENDO</target>
+        <target>STAI SEGUENDO</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="FOLLOWS YOU" xml:space="preserve">
@@ -296,7 +297,7 @@
       </trans-unit>
       <trans-unit id="Faild to Load Results" xml:space="preserve">
         <source>Faild to Load Results</source>
-        <target>Errore nel caricare i risultati</target>
+        <target>Errore nel caricamento dei risultati</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Failed to Download" xml:space="preserve">
@@ -316,12 +317,12 @@
       </trans-unit>
       <trans-unit id="Failed to Load Bookmarks" xml:space="preserve">
         <source>Failed to Load Bookmarks</source>
-        <target>Errore nel caricamento dei Bookmarks</target>
+        <target>Errore nel caricamento dei Segnalibri</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Failed to Load Favorites" xml:space="preserve">
         <source>Failed to Load Favorites</source>
-        <target>Errore nel caricamento dei Preferiti</target>
+        <target>Errore nel caricamento dei Mi Piace</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Failed to Load Follow Requests" xml:space="preserve">
@@ -331,7 +332,7 @@
       </trans-unit>
       <trans-unit id="Failed to Load Hashtags" xml:space="preserve">
         <source>Failed to Load Hashtags</source>
-        <target>Errore nel caricamento degli Hashtag</target>
+        <target>Errore nel caricamento degli hashtag</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Failed to Load Messages" xml:space="preserve">
@@ -381,6 +382,7 @@
       </trans-unit>
       <trans-unit id="Feature Requests" xml:space="preserve">
         <source>Feature Requests</source>
+        <target>Richieste di funzionalità</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Federated Timeline" xml:space="preserve">
@@ -445,7 +447,7 @@
       </trans-unit>
       <trans-unit id="Loading…" xml:space="preserve">
         <source>Loading…</source>
-        <target>Loading…</target>
+        <target>Caricamento…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Local Timeline" xml:space="preserve">
@@ -510,7 +512,7 @@
       </trans-unit>
       <trans-unit id="New Post" xml:space="preserve">
         <source>New Post</source>
-        <target>Nuovo Post</target>
+        <target>Nuovo post</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="New Reply" xml:space="preserve">
@@ -525,12 +527,12 @@
       </trans-unit>
       <trans-unit id="No Bookmarks" xml:space="preserve">
         <source>No Bookmarks</source>
-        <target>Nessun bookmark</target>
+        <target>Nessun segnalibro</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Favorites" xml:space="preserve">
         <source>No Favorites</source>
-        <target>Nessun preferito</target>
+        <target>Nessun Mi Piace</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Follow Requests" xml:space="preserve">
@@ -590,6 +592,7 @@
       </trans-unit>
       <trans-unit id="Open in Browser" xml:space="preserve">
         <source>Open in Browser</source>
+        <target>Apri nel browser</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pinned" xml:space="preserve">
@@ -674,6 +677,7 @@
       </trans-unit>
       <trans-unit id="Roadmap" xml:space="preserve">
         <source>Roadmap</source>
+        <target>Tabella di marcia</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Send" xml:space="preserve">
@@ -693,7 +697,7 @@
       </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
         <source>Settings</source>
-        <target>Setting</target>
+        <target>Preferenze</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Share…" xml:space="preserve">
@@ -773,12 +777,12 @@
       </trans-unit>
       <trans-unit id="Unboost" xml:space="preserve">
         <source>Unboost</source>
-        <target>Cancella condivisione</target>
+        <target>Annulla condivisione</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unfavorite" xml:space="preserve">
         <source>Unfavorite</source>
-        <target>Cancella apprezzamento</target>
+        <target>Annulla Mi Piace</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unlisted" xml:space="preserve">
@@ -788,7 +792,7 @@
       </trans-unit>
       <trans-unit id="Unmute" xml:space="preserve">
         <source>Unmute</source>
-        <target>Cancella silenziamento</target>
+        <target>Annulla silenziamento</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unsupported Type" xml:space="preserve">
