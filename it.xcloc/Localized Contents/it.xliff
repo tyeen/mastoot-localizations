@@ -197,7 +197,7 @@
       </trans-unit>
       <trans-unit id="Boost" xml:space="preserve">
         <source>Boost</source>
-        <target>Condividi</target>
+        <target>Rilancia</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Boosted By" xml:space="preserve">
@@ -227,7 +227,7 @@
       </trans-unit>
       <trans-unit id="Close %@" xml:space="preserve">
         <source>Close %@</source>
-        <target>Chiudi %@</target>
+        <target>Chiude %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Closed" xml:space="preserve">
@@ -367,17 +367,17 @@
       </trans-unit>
       <trans-unit id="Favorite" xml:space="preserve">
         <source>Favorite</source>
-        <target>Preferito</target>
+        <target>Mi piace</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Favorited By" xml:space="preserve">
         <source>Favorited By</source>
-        <target>Preferito da</target>
+        <target>Piace a</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Favorites" xml:space="preserve">
         <source>Favorites</source>
-        <target>Preferiti</target>
+        <target>I tuoi "Mi piace"</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Feature Requests" xml:space="preserve">
@@ -397,7 +397,7 @@
       </trans-unit>
       <trans-unit id="Followers" xml:space="preserve">
         <source>Followers</source>
-        <target>Follower</target>
+        <target>Ti seguono</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Followers Only" xml:space="preserve">
@@ -407,7 +407,7 @@
       </trans-unit>
       <trans-unit id="Following" xml:space="preserve">
         <source>Following</source>
-        <target>Seguendo</target>
+        <target>Stai seguengo</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Forward to %@" xml:space="preserve">
