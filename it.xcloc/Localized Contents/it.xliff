@@ -367,17 +367,17 @@
       </trans-unit>
       <trans-unit id="Favorite" xml:space="preserve">
         <source>Favorite</source>
-        <target>Preferito</target>
+        <target>Mi piace</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Favorited By" xml:space="preserve">
         <source>Favorited By</source>
-        <target>Preferito da</target>
+        <target>Piace a</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Favorites" xml:space="preserve">
         <source>Favorites</source>
-        <target>Preferiti</target>
+        <target>I tuoi "Mi piace"</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Feature Requests" xml:space="preserve">
