@@ -42,6 +42,7 @@
       </trans-unit>
       <trans-unit id="%@ has requested to follow you" xml:space="preserve">
         <source>%@ has requested to follow you</source>
+        <target>%@さんがフォローリクエストを送りました</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ just posted" xml:space="preserve">
@@ -211,6 +212,7 @@
       </trans-unit>
       <trans-unit id="Bug Reports" xml:space="preserve">
         <source>Bug Reports</source>
+        <target>バグレポート</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
@@ -380,6 +382,7 @@
       </trans-unit>
       <trans-unit id="Feature Requests" xml:space="preserve">
         <source>Feature Requests</source>
+        <target>ご要望</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Federated Timeline" xml:space="preserve">
@@ -589,6 +592,7 @@
       </trans-unit>
       <trans-unit id="Open in Browser" xml:space="preserve">
         <source>Open in Browser</source>
+        <target>ブラウザで開く</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pinned" xml:space="preserve">
@@ -673,6 +677,7 @@
       </trans-unit>
       <trans-unit id="Roadmap" xml:space="preserve">
         <source>Roadmap</source>
+        <target>ロードマップ</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Send" xml:space="preserve">
