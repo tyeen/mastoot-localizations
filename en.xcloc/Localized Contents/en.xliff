@@ -857,6 +857,21 @@
         <target>Your poll has ended</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="home.more.menu.title.refresh-behavior" xml:space="preserve">
+        <source>After Refresh</source>
+        <target>After Refresh</target>
+        <note>Title for home timeline refersh behavior menu, this title will combine with refresh behavior title (shows as subtitle)</note>
+      </trans-unit>
+      <trans-unit id="home.refresh-behavior.title.keep-timeline-position" xml:space="preserve">
+        <source>Keep Timeline Position</source>
+        <target>Keep Timeline Position</target>
+        <note>Title for home timeline refresh behavior.</note>
+      </trans-unit>
+      <trans-unit id="home.refresh-behavior.title.show-latest-posts" xml:space="preserve">
+        <source>Show Latest Posts</source>
+        <target>Show Latest Posts</target>
+        <note>Title for home timeline refresh behavior.</note>
+      </trans-unit>
     </body>
   </file>
   <file original="NotificationService/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
