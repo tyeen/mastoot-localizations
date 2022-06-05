@@ -857,14 +857,17 @@
       </trans-unit>
       <trans-unit id="home.more.menu.title.refresh-behavior" xml:space="preserve">
         <source>After Refresh</source>
+        <target>更新後のタイムライン</target>
         <note>Title for home timeline refersh behavior menu, this title will combine with refresh behavior title (shows as subtitle)</note>
       </trans-unit>
       <trans-unit id="home.refresh-behavior.title.keep-timeline-position" xml:space="preserve">
         <source>Keep Timeline Position</source>
+        <target>現在の投稿を表示</target>
         <note>Title for home timeline refresh behavior.</note>
       </trans-unit>
       <trans-unit id="home.refresh-behavior.title.show-latest-posts" xml:space="preserve">
         <source>Show Latest Posts</source>
+        <target>最新の投稿を表示</target>
         <note>Title for home timeline refresh behavior.</note>
       </trans-unit>
     </body>
