@@ -27,12 +27,12 @@
       </trans-unit>
       <trans-unit id="%@ boosted your post" xml:space="preserve">
         <source>%@ boosted your post</source>
-        <target>%@さんがあなたのポストをブーストした</target>
+        <target>%@さんがあなたの投稿をブーストした</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ favorited your post" xml:space="preserve">
         <source>%@ favorited your post</source>
-        <target>%@さんがあなたのポストをお気に入りしました</target>
+        <target>%@さんがあなたの投稿をお気に入りしました</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ followed you" xml:space="preserve">
@@ -142,7 +142,7 @@
       </trans-unit>
       <trans-unit id="Are you sure you want delete this post?" xml:space="preserve">
         <source>Are you sure you want delete this post?</source>
-        <target>このポストを削除してよろしいですか？</target>
+        <target>投稿を削除してよろしいですか？</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to block @%@?" xml:space="preserve">
@@ -567,7 +567,7 @@
       </trans-unit>
       <trans-unit id="No Posts" xml:space="preserve">
         <source>No Posts</source>
-        <target>何もありません</target>
+        <target>投稿がありません</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Results" xml:space="preserve">
@@ -857,14 +857,17 @@
       </trans-unit>
       <trans-unit id="home.more.menu.title.refresh-behavior" xml:space="preserve">
         <source>After Refresh</source>
+        <target>更新後のタイムライン</target>
         <note>Title for home timeline refersh behavior menu, this title will combine with refresh behavior title (shows as subtitle)</note>
       </trans-unit>
       <trans-unit id="home.refresh-behavior.title.keep-timeline-position" xml:space="preserve">
         <source>Keep Timeline Position</source>
+        <target>現在の投稿を表示</target>
         <note>Title for home timeline refresh behavior.</note>
       </trans-unit>
       <trans-unit id="home.refresh-behavior.title.show-latest-posts" xml:space="preserve">
         <source>Show Latest Posts</source>
+        <target>最新の投稿を表示</target>
         <note>Title for home timeline refresh behavior.</note>
       </trans-unit>
     </body>
