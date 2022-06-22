@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Mastoot/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4" build-num="13F17a"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -17,7 +17,7 @@
   </file>
   <file original="Mastoot/Resources/en.lproj/Localizable.strings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4" build-num="13F17a"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
     </header>
     <body>
       <trans-unit id="%@ boosted" xml:space="preserve">
@@ -275,6 +275,11 @@
         <target>正在下载…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Edit Attachment Description" xml:space="preserve">
+        <source>Edit Attachment Description</source>
+        <target>编辑附件描述</target>
+        <note>Title for attachment description editing scene.</note>
+      </trans-unit>
       <trans-unit id="Explore" xml:space="preserve">
         <source>Explore</source>
         <target>探索</target>
@@ -303,6 +308,11 @@
       <trans-unit id="Failed to Download" xml:space="preserve">
         <source>Failed to Download</source>
         <target>下载失败</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Edit Attachment Description" xml:space="preserve">
+        <source>Failed to Edit Attachment Description</source>
+        <target>编辑附件描述失败</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Failed to Load" xml:space="preserve">
@@ -874,7 +884,7 @@
   </file>
   <file original="NotificationService/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4" build-num="13F17a"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
