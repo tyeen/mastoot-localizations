@@ -277,6 +277,7 @@
       </trans-unit>
       <trans-unit id="Edit Attachment Description" xml:space="preserve">
         <source>Edit Attachment Description</source>
+        <target>アタッチメントの説明を編集</target>
         <note>Title for attachment description editing scene.</note>
       </trans-unit>
       <trans-unit id="Explore" xml:space="preserve">
@@ -311,6 +312,7 @@
       </trans-unit>
       <trans-unit id="Failed to Edit Attachment Description" xml:space="preserve">
         <source>Failed to Edit Attachment Description</source>
+        <target>アタッチメント説明の編集に失敗しました</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Failed to Load" xml:space="preserve">
