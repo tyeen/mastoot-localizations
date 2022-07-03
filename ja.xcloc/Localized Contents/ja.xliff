@@ -105,6 +105,10 @@
         <target>Mastootについて</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Accent Color" xml:space="preserve">
+        <source>Accent Color</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Accounts" xml:space="preserve">
         <source>Accounts</source>
         <target>アカウント</target>
@@ -185,6 +189,10 @@
         <target>ブロック</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Blue" xml:space="preserve">
+        <source>Blue</source>
+        <note>Name of the blue background mastodon app icon.</note>
+      </trans-unit>
       <trans-unit id="Bookmark" xml:space="preserve">
         <source>Bookmark</source>
         <target>ブークマーク</target>
@@ -208,6 +216,10 @@
       <trans-unit id="Boosts" xml:space="preserve">
         <source>Boosts</source>
         <target>ブースト件数</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Brown" xml:space="preserve">
+        <source>Brown</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Bug Reports" xml:space="preserve">
@@ -243,6 +255,10 @@
       <trans-unit id="Content Warning" xml:space="preserve">
         <source>Content Warning</source>
         <target>ここに警告を書いてください</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cyan" xml:space="preserve">
+        <source>Cyan</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DOMAIN BLOCKED" xml:space="preserve">
@@ -425,6 +441,10 @@
         <target>%@さんに転送</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Green" xml:space="preserve">
+        <source>Green</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Hashtags" xml:space="preserve">
         <source>Hashtags</source>
         <target>タグ</target>
@@ -443,6 +463,10 @@
       <trans-unit id="In most cases a few targeted blocks or mutes are sufficient and preferable. You will not see content from that domain in any public timelines or your notifications. Your followers from that domain will be removed." xml:space="preserve">
         <source>In most cases a few targeted blocks or mutes are sufficient and preferable. You will not see content from that domain in any public timelines or your notifications. Your followers from that domain will be removed.</source>
         <target>多くの場合は個別にブロックやミュートするだけで充分であり、また好ましいです。公開タイムラインにそのドメインのコンテンツが表示されなくなり、通知も届かなくなります。そのドメインのフォロワーはアンフォローされます。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Indigo" xml:space="preserve">
+        <source>Indigo</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="LOADING" xml:space="preserve">
@@ -498,6 +522,10 @@
       <trans-unit id="Messages" xml:space="preserve">
         <source>Messages</source>
         <target>メッセージ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mint" xml:space="preserve">
+        <source>Mint</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="More" xml:space="preserve">
@@ -605,6 +633,14 @@
         <target>ブラウザで開く</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Orange" xml:space="preserve">
+        <source>Orange</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pink" xml:space="preserve">
+        <source>Pink</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Pinned" xml:space="preserve">
         <source>Pinned</source>
         <target>固定された投稿</target>
@@ -655,9 +691,17 @@
         <target>投稿中...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Purple" xml:space="preserve">
+        <source>Purple</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="REQUESTED" xml:space="preserve">
         <source>REQUESTED</source>
         <target>リクエスト済み</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Red" xml:space="preserve">
+        <source>Red</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remove Bookmark" xml:space="preserve">
@@ -738,6 +782,10 @@
       <trans-unit id="Sign Out" xml:space="preserve">
         <source>Sign Out</source>
         <target>ログアウト</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Teal" xml:space="preserve">
+        <source>Teal</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The user is from another server. Send an anonymized copy of the report there as well?" xml:space="preserve">
@@ -858,6 +906,10 @@
       <trans-unit id="What’s on your mind?" xml:space="preserve">
         <source>What’s on your mind?</source>
         <target>今なにを思い出してる？</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Yellow" xml:space="preserve">
+        <source>Yellow</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Your poll has ended" xml:space="preserve">

@@ -105,6 +105,11 @@
         <target>关于Mastoot</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Accent Color" xml:space="preserve">
+        <source>Accent Color</source>
+        <target>强调色</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Accounts" xml:space="preserve">
         <source>Accounts</source>
         <target>帐户</target>
@@ -185,6 +190,11 @@
         <target>屏蔽…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Blue" xml:space="preserve">
+        <source>Blue</source>
+        <target>蓝色</target>
+        <note>Name of the blue background mastodon app icon.</note>
+      </trans-unit>
       <trans-unit id="Bookmark" xml:space="preserve">
         <source>Bookmark</source>
         <target>添加书签</target>
@@ -208,6 +218,11 @@
       <trans-unit id="Boosts" xml:space="preserve">
         <source>Boosts</source>
         <target>转嘟</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Brown" xml:space="preserve">
+        <source>Brown</source>
+        <target>棕色</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Bug Reports" xml:space="preserve">
@@ -243,6 +258,11 @@
       <trans-unit id="Content Warning" xml:space="preserve">
         <source>Content Warning</source>
         <target>内容警告</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cyan" xml:space="preserve">
+        <source>Cyan</source>
+        <target>青色</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DOMAIN BLOCKED" xml:space="preserve">
@@ -425,6 +445,11 @@
         <target>转发至%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Green" xml:space="preserve">
+        <source>Green</source>
+        <target>绿色</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Hashtags" xml:space="preserve">
         <source>Hashtags</source>
         <target>话题标签</target>
@@ -443,6 +468,11 @@
       <trans-unit id="In most cases a few targeted blocks or mutes are sufficient and preferable. You will not see content from that domain in any public timelines or your notifications. Your followers from that domain will be removed." xml:space="preserve">
         <source>In most cases a few targeted blocks or mutes are sufficient and preferable. You will not see content from that domain in any public timelines or your notifications. Your followers from that domain will be removed.</source>
         <target>多数情况下，屏蔽或隐藏几个特定的用户就已经足够了。来自该网站的内容将不再出现在你的任何公共时间轴或通知列表里。来自该网站的关注者将会被移除。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Indigo" xml:space="preserve">
+        <source>Indigo</source>
+        <target>靛蓝色</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="LOADING" xml:space="preserve">
@@ -498,6 +528,11 @@
       <trans-unit id="Messages" xml:space="preserve">
         <source>Messages</source>
         <target>私信</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mint" xml:space="preserve">
+        <source>Mint</source>
+        <target>薄荷色</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="More" xml:space="preserve">
@@ -605,6 +640,16 @@
         <target>在浏览器中打开</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Orange" xml:space="preserve">
+        <source>Orange</source>
+        <target>橙色</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pink" xml:space="preserve">
+        <source>Pink</source>
+        <target>粉色</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Pinned" xml:space="preserve">
         <source>Pinned</source>
         <target>置顶</target>
@@ -655,9 +700,19 @@
         <target>正在发布…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Purple" xml:space="preserve">
+        <source>Purple</source>
+        <target>紫色</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="REQUESTED" xml:space="preserve">
         <source>REQUESTED</source>
         <target>已发送请求</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Red" xml:space="preserve">
+        <source>Red</source>
+        <target>红色</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remove Bookmark" xml:space="preserve">
@@ -738,6 +793,11 @@
       <trans-unit id="Sign Out" xml:space="preserve">
         <source>Sign Out</source>
         <target>退出登录</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Teal" xml:space="preserve">
+        <source>Teal</source>
+        <target>蓝绿色</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The user is from another server. Send an anonymized copy of the report there as well?" xml:space="preserve">
@@ -858,6 +918,11 @@
       <trans-unit id="What’s on your mind?" xml:space="preserve">
         <source>What’s on your mind?</source>
         <target>在想什么？</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Yellow" xml:space="preserve">
+        <source>Yellow</source>
+        <target>黄色</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Your poll has ended" xml:space="preserve">

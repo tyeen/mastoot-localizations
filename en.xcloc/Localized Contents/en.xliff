@@ -107,6 +107,11 @@
         <target>About Mastoot</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Accent Color" xml:space="preserve">
+        <source>Accent Color</source>
+        <target>Accent Color</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Accounts" xml:space="preserve">
         <source>Accounts</source>
         <target>Accounts</target>
@@ -187,6 +192,11 @@
         <target>Block…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Blue" xml:space="preserve">
+        <source>Blue</source>
+        <target>Blue</target>
+        <note>Name of the blue background mastodon app icon.</note>
+      </trans-unit>
       <trans-unit id="Bookmark" xml:space="preserve">
         <source>Bookmark</source>
         <target>Bookmark</target>
@@ -210,6 +220,11 @@
       <trans-unit id="Boosts" xml:space="preserve">
         <source>Boosts</source>
         <target>Boosts</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Brown" xml:space="preserve">
+        <source>Brown</source>
+        <target>Brown</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Bug Reports" xml:space="preserve">
@@ -245,6 +260,11 @@
       <trans-unit id="Content Warning" xml:space="preserve">
         <source>Content Warning</source>
         <target>Content Warning</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cyan" xml:space="preserve">
+        <source>Cyan</source>
+        <target>Cyan</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DOMAIN BLOCKED" xml:space="preserve">
@@ -427,6 +447,11 @@
         <target>Forward to %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Green" xml:space="preserve">
+        <source>Green</source>
+        <target>Green</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Hashtags" xml:space="preserve">
         <source>Hashtags</source>
         <target>Hashtags</target>
@@ -445,6 +470,11 @@
       <trans-unit id="In most cases a few targeted blocks or mutes are sufficient and preferable. You will not see content from that domain in any public timelines or your notifications. Your followers from that domain will be removed." xml:space="preserve">
         <source>In most cases a few targeted blocks or mutes are sufficient and preferable. You will not see content from that domain in any public timelines or your notifications. Your followers from that domain will be removed.</source>
         <target>In most cases a few targeted blocks or mutes are sufficient and preferable. You will not see content from that domain in any public timelines or your notifications. Your followers from that domain will be removed.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Indigo" xml:space="preserve">
+        <source>Indigo</source>
+        <target>Indigo</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="LOADING" xml:space="preserve">
@@ -500,6 +530,11 @@
       <trans-unit id="Messages" xml:space="preserve">
         <source>Messages</source>
         <target>Messages</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mint" xml:space="preserve">
+        <source>Mint</source>
+        <target>Mint</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="More" xml:space="preserve">
@@ -607,6 +642,16 @@
         <target>Open in Browser</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Orange" xml:space="preserve">
+        <source>Orange</source>
+        <target>Orange</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pink" xml:space="preserve">
+        <source>Pink</source>
+        <target>Pink</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Pinned" xml:space="preserve">
         <source>Pinned</source>
         <target>Pinned</target>
@@ -657,9 +702,19 @@
         <target>Publishing…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Purple" xml:space="preserve">
+        <source>Purple</source>
+        <target>Purple</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="REQUESTED" xml:space="preserve">
         <source>REQUESTED</source>
         <target>REQUESTED</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Red" xml:space="preserve">
+        <source>Red</source>
+        <target>Red</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remove Bookmark" xml:space="preserve">
@@ -740,6 +795,11 @@
       <trans-unit id="Sign Out" xml:space="preserve">
         <source>Sign Out</source>
         <target>Sign Out</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Teal" xml:space="preserve">
+        <source>Teal</source>
+        <target>Teal</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The user is from another server. Send an anonymized copy of the report there as well?" xml:space="preserve">
@@ -860,6 +920,11 @@
       <trans-unit id="What’s on your mind?" xml:space="preserve">
         <source>What’s on your mind?</source>
         <target>What’s on your mind?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Yellow" xml:space="preserve">
+        <source>Yellow</source>
+        <target>Yellow</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Your poll has ended" xml:space="preserve">

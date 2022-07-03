@@ -105,6 +105,10 @@
         <target>A proposito di Mastoot</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Accent Color" xml:space="preserve">
+        <source>Accent Color</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Accounts" xml:space="preserve">
         <source>Accounts</source>
         <target>Account</target>
@@ -185,6 +189,10 @@
         <target>Blocca…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Blue" xml:space="preserve">
+        <source>Blue</source>
+        <note>Name of the blue background mastodon app icon.</note>
+      </trans-unit>
       <trans-unit id="Bookmark" xml:space="preserve">
         <source>Bookmark</source>
         <target>Segnalibro</target>
@@ -208,6 +216,10 @@
       <trans-unit id="Boosts" xml:space="preserve">
         <source>Boosts</source>
         <target>Condivisioni</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Brown" xml:space="preserve">
+        <source>Brown</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Bug Reports" xml:space="preserve">
@@ -243,6 +255,10 @@
       <trans-unit id="Content Warning" xml:space="preserve">
         <source>Content Warning</source>
         <target>Content Warning</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cyan" xml:space="preserve">
+        <source>Cyan</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DOMAIN BLOCKED" xml:space="preserve">
@@ -423,6 +439,10 @@
         <target>Inoltra a %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Green" xml:space="preserve">
+        <source>Green</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Hashtags" xml:space="preserve">
         <source>Hashtags</source>
         <target>Hashtag</target>
@@ -441,6 +461,10 @@
       <trans-unit id="In most cases a few targeted blocks or mutes are sufficient and preferable. You will not see content from that domain in any public timelines or your notifications. Your followers from that domain will be removed." xml:space="preserve">
         <source>In most cases a few targeted blocks or mutes are sufficient and preferable. You will not see content from that domain in any public timelines or your notifications. Your followers from that domain will be removed.</source>
         <target>In molti casi è preferibile fare blocchi e silenziamenti mirati. Non vedrai il contenuto di questo dominio in nessuna timeline pubblica né nelle notifiche. I tuoi follower da questo dominio saranno rimossi.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Indigo" xml:space="preserve">
+        <source>Indigo</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="LOADING" xml:space="preserve">
@@ -496,6 +520,10 @@
       <trans-unit id="Messages" xml:space="preserve">
         <source>Messages</source>
         <target>Messaggi</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mint" xml:space="preserve">
+        <source>Mint</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="More" xml:space="preserve">
@@ -603,6 +631,14 @@
         <target>Apri nel browser</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Orange" xml:space="preserve">
+        <source>Orange</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pink" xml:space="preserve">
+        <source>Pink</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Pinned" xml:space="preserve">
         <source>Pinned</source>
         <target>Fissato</target>
@@ -653,9 +689,17 @@
         <target>Pubblicando…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Purple" xml:space="preserve">
+        <source>Purple</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="REQUESTED" xml:space="preserve">
         <source>REQUESTED</source>
         <target>RICHIESTA</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Red" xml:space="preserve">
+        <source>Red</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remove Bookmark" xml:space="preserve">
@@ -736,6 +780,10 @@
       <trans-unit id="Sign Out" xml:space="preserve">
         <source>Sign Out</source>
         <target>Esci</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Teal" xml:space="preserve">
+        <source>Teal</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The user is from another server. Send an anonymized copy of the report there as well?" xml:space="preserve">
@@ -856,6 +904,10 @@
       <trans-unit id="What’s on your mind?" xml:space="preserve">
         <source>What’s on your mind?</source>
         <target>Cos'hai in mente?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Yellow" xml:space="preserve">
+        <source>Yellow</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Your poll has ended" xml:space="preserve">
