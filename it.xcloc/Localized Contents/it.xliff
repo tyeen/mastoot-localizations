@@ -295,6 +295,18 @@
         <source>Edit Attachment Description</source>
         <note>Title for attachment description editing scene.</note>
       </trans-unit>
+      <trans-unit id="Edit History" xml:space="preserve">
+        <source>Edit History</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Edited" xml:space="preserve">
+        <source>Edited</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Edited %@" xml:space="preserve">
+        <source>Edited %@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Explore" xml:space="preserve">
         <source>Explore</source>
         <target>Esplora</target>

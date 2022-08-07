@@ -300,6 +300,21 @@
         <target>编辑附件描述</target>
         <note>Title for attachment description editing scene.</note>
       </trans-unit>
+      <trans-unit id="Edit History" xml:space="preserve">
+        <source>Edit History</source>
+        <target>编辑历史</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Edited" xml:space="preserve">
+        <source>Edited</source>
+        <target>已编辑</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Edited %@" xml:space="preserve">
+        <source>Edited %@</source>
+        <target>编辑于%@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Explore" xml:space="preserve">
         <source>Explore</source>
         <target>探索</target>
