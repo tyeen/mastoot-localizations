@@ -107,6 +107,7 @@
       </trans-unit>
       <trans-unit id="Accent Color" xml:space="preserve">
         <source>Accent Color</source>
+        <target>アクセント色</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Accounts" xml:space="preserve">
@@ -191,6 +192,7 @@
       </trans-unit>
       <trans-unit id="Blue" xml:space="preserve">
         <source>Blue</source>
+        <target>青</target>
         <note>Name of the blue background mastodon app icon.</note>
       </trans-unit>
       <trans-unit id="Bookmark" xml:space="preserve">
@@ -220,6 +222,7 @@
       </trans-unit>
       <trans-unit id="Brown" xml:space="preserve">
         <source>Brown</source>
+        <target>茶色</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Bug Reports" xml:space="preserve">
@@ -259,6 +262,7 @@
       </trans-unit>
       <trans-unit id="Cyan" xml:space="preserve">
         <source>Cyan</source>
+        <target>シアン</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DOMAIN BLOCKED" xml:space="preserve">
@@ -298,14 +302,17 @@
       </trans-unit>
       <trans-unit id="Edit History" xml:space="preserve">
         <source>Edit History</source>
+        <target>履歴を編集</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Edited" xml:space="preserve">
         <source>Edited</source>
+        <target>編集済み</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Edited %@" xml:space="preserve">
         <source>Edited %@</source>
+        <target>%@に編集した</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Explore" xml:space="preserve">
@@ -455,6 +462,7 @@
       </trans-unit>
       <trans-unit id="Green" xml:space="preserve">
         <source>Green</source>
+        <target>グリーン</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Hashtags" xml:space="preserve">
@@ -479,6 +487,7 @@
       </trans-unit>
       <trans-unit id="Indigo" xml:space="preserve">
         <source>Indigo</source>
+        <target>インジゴ</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="LOADING" xml:space="preserve">
@@ -538,6 +547,7 @@
       </trans-unit>
       <trans-unit id="Mint" xml:space="preserve">
         <source>Mint</source>
+        <target>ミントグリーン</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="More" xml:space="preserve">
@@ -647,10 +657,12 @@
       </trans-unit>
       <trans-unit id="Orange" xml:space="preserve">
         <source>Orange</source>
+        <target>オレンジ色</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pink" xml:space="preserve">
         <source>Pink</source>
+        <target>ピンク色</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pinned" xml:space="preserve">
@@ -705,6 +717,7 @@
       </trans-unit>
       <trans-unit id="Purple" xml:space="preserve">
         <source>Purple</source>
+        <target>紫</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="REQUESTED" xml:space="preserve">
@@ -714,6 +727,7 @@
       </trans-unit>
       <trans-unit id="Red" xml:space="preserve">
         <source>Red</source>
+        <target>赤</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remove Bookmark" xml:space="preserve">
@@ -798,6 +812,7 @@
       </trans-unit>
       <trans-unit id="Teal" xml:space="preserve">
         <source>Teal</source>
+        <target>青緑</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The user is from another server. Send an anonymized copy of the report there as well?" xml:space="preserve">
