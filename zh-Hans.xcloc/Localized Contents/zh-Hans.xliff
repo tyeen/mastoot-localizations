@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Mastoot/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A309"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -17,7 +17,7 @@
   </file>
   <file original="Mastoot/Resources/en.lproj/Localizable.strings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A309"/>
     </header>
     <body>
       <trans-unit id="%@ boosted" xml:space="preserve">
@@ -685,6 +685,11 @@
         <target>嘟文</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Post Published" xml:space="preserve">
+        <source>Post Published</source>
+        <target>嘟文已发布</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Posts" xml:space="preserve">
         <source>Posts</source>
         <target>嘟文</target>
@@ -905,6 +910,16 @@
         <target>版本</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="View" xml:space="preserve">
+        <source>View</source>
+        <target>查看</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="View published post?" xml:space="preserve">
+        <source>View published post?</source>
+        <target>查看刚刚发布的嘟文？</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Visible for all, but opted-out of discovery features." xml:space="preserve">
         <source>Visible for all, but opted-out of discovery features.</source>
         <target>对所有人可见，但不加入探索功能。</target>
@@ -964,7 +979,7 @@
   </file>
   <file original="NotificationService/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A309"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
