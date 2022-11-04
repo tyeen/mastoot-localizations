@@ -687,6 +687,7 @@
       </trans-unit>
       <trans-unit id="Post Published" xml:space="preserve">
         <source>Post Published</source>
+        <target>投稿完了</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Posts" xml:space="preserve">
@@ -911,10 +912,12 @@
       </trans-unit>
       <trans-unit id="View" xml:space="preserve">
         <source>View</source>
+        <target>表示</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View published post?" xml:space="preserve">
         <source>View published post?</source>
+        <target>公開した投稿を見る？</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Visible for all, but opted-out of discovery features." xml:space="preserve">
@@ -949,6 +952,7 @@
       </trans-unit>
       <trans-unit id="Yellow" xml:space="preserve">
         <source>Yellow</source>
+        <target>黄色</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Your poll has ended" xml:space="preserve">
