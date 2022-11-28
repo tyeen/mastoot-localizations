@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Mastoot/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A309"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve" approved="no">
+        <source>Mastoot</source>
+        <target state="translated">Mastoot</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Mastoot/Resources/en.lproj/Localizable.strings" source-language="en" target-language="fr" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A309"/>
+    </header>
+    <body>
+      <trans-unit id="%@ has requested to follow you" xml:space="preserve" approved="no">
+        <source>%@ has requested to follow you</source>
+        <target state="translated">%@ a demandé à vous suivre</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="1 Day" xml:space="preserve" approved="no">
+        <source>1 Day</source>
+        <target state="translated">1 jour</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="1 Hour" xml:space="preserve" approved="no">
+        <source>1 Hour</source>
+        <target state="translated">1 heure</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="3 Days" xml:space="preserve" approved="no">
+        <source>3 Days</source>
+        <target state="translated">3 jours</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="5 Minutes" xml:space="preserve" approved="no">
+        <source>5 Minutes</source>
+        <target state="translated">5 minutes</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="6 Hours" xml:space="preserve" approved="no">
+        <source>6 Hours</source>
+        <target state="translated">6 heures</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="7 Days" xml:space="preserve" approved="no">
+        <source>7 Days</source>
+        <target state="translated">7 jours</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="30 Minutes" xml:space="preserve" approved="no">
+        <source>30 Minutes</source>
+        <target state="translated">30 minutes</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="AUDIO" xml:space="preserve" approved="no">
+        <source>AUDIO</source>
+        <target state="translated">AUDIO</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About Mastoot" xml:space="preserve" approved="no">
+        <source>About Mastoot</source>
+        <target state="translated">À propos de Mastoot</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Accounts" xml:space="preserve" approved="no">
+        <source>Accounts</source>
+        <target state="translated">Comptes</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add Account…" xml:space="preserve" approved="no">
+        <source>Add Account…</source>
+        <target state="translated">Ajouter un compte…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="All" xml:space="preserve" approved="no">
+        <source>All</source>
+        <target state="translated">Tout</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="App Icon" xml:space="preserve" approved="no">
+        <source>App Icon</source>
+        <target state="translated">Icône de l’application</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Block" xml:space="preserve" approved="no">
+        <source>Block</source>
+        <target state="translated">Bloquer</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Block Domain…" xml:space="preserve" approved="no">
+        <source>Block Domain…</source>
+        <target state="translated">Bloquer le domaine …</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Blocked Domains" xml:space="preserve" approved="no">
+        <source>Blocked Domains</source>
+        <target state="translated">Domaines bloqués</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Blocked Users" xml:space="preserve" approved="no">
+        <source>Blocked Users</source>
+        <target state="translated">Utilisateur·rice·s bloqué·e·s</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Block…" xml:space="preserve" approved="no">
+        <source>Block…</source>
+        <target state="translated">Bloquer …</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Blue" xml:space="preserve" approved="no">
+        <source>Blue</source>
+        <target state="translated">Bleu</target>
+        <note>Name of the blue background mastodon app icon.</note>
+      </trans-unit>
+      <trans-unit id="Bookmarks" xml:space="preserve" approved="no">
+        <source>Bookmarks</source>
+        <target state="translated">Signets</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Boost" xml:space="preserve" approved="no">
+        <source>Boost</source>
+        <target state="translated">Booster</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Boosted By" xml:space="preserve" approved="no">
+        <source>Boosted By</source>
+        <target state="translated">Boosté par</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Boosts" xml:space="preserve" approved="no">
+        <source>Boosts</source>
+        <target state="translated">Boosts</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Brown" xml:space="preserve" approved="no">
+        <source>Brown</source>
+        <target state="translated">Marron</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Bug Reports" xml:space="preserve" approved="no">
+        <source>Bug Reports</source>
+        <target state="translated">Rapports de bogue</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve" approved="no">
+        <source>Cancel</source>
+        <target state="translated">Annuler</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Close %@" xml:space="preserve" approved="no">
+        <source>Close %@</source>
+        <target state="translated">Fermer %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Closed" xml:space="preserve" approved="no">
+        <source>Closed</source>
+        <target state="translated">Fermé</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Comments" xml:space="preserve" approved="no">
+        <source>Comments</source>
+        <target state="translated">Commentaires</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cyan" xml:space="preserve" approved="no">
+        <source>Cyan</source>
+        <target state="translated">Cyan</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Default" xml:space="preserve" approved="no">
+        <source>Default</source>
+        <target state="translated">Par défaut</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete" xml:space="preserve" approved="no">
+        <source>Delete</source>
+        <target state="translated">Supprimer</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete…" xml:space="preserve" approved="no">
+        <source>Delete…</source>
+        <target state="translated">Supprimer …</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Downloading…" xml:space="preserve" approved="no">
+        <source>Downloading…</source>
+        <target state="translated">Téléchargement …</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Edit Attachment Description" xml:space="preserve" approved="no">
+        <source>Edit Attachment Description</source>
+        <target state="translated">Modifier la description de l’attachement</target>
+        <note>Title for attachment description editing scene.</note>
+      </trans-unit>
+      <trans-unit id="Edit History" xml:space="preserve" approved="no">
+        <source>Edit History</source>
+        <target state="translated">Historique des éditions</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Edited" xml:space="preserve" approved="no">
+        <source>Edited</source>
+        <target state="translated">Édité</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Explore" xml:space="preserve" approved="no">
+        <source>Explore</source>
+        <target state="translated">Explorer</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FOLLOW" xml:space="preserve" approved="no">
+        <source>FOLLOW</source>
+        <target state="translated">SUIVRE</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FOLLOWS YOU" xml:space="preserve" approved="no">
+        <source>FOLLOWS YOU</source>
+        <target state="translated">VOUS SUIT</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Favorites" xml:space="preserve" approved="no">
+        <source>Favorites</source>
+        <target state="translated">Favoris</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Federated Timeline" xml:space="preserve" approved="no">
+        <source>Federated Timeline</source>
+        <target state="translated">Fil fédéré</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Follow Requests" xml:space="preserve" approved="no">
+        <source>Follow Requests</source>
+        <target state="translated">Demandes d’abonnement</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Followers" xml:space="preserve" approved="no">
+        <source>Followers</source>
+        <target state="translated">Abonné·e·s</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Followers Only" xml:space="preserve" approved="no">
+        <source>Followers Only</source>
+        <target state="translated">Abonné·e·s uniquement</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Forward to %@" xml:space="preserve" approved="no">
+        <source>Forward to %@</source>
+        <target state="translated">Transférer à %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Green" xml:space="preserve" approved="no">
+        <source>Green</source>
+        <target state="translated">Vert</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hashtags" xml:space="preserve" approved="no">
+        <source>Hashtags</source>
+        <target state="translated">Hashtags</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hide Media" xml:space="preserve" approved="no">
+        <source>Hide Media</source>
+        <target state="translated">Cacher le média</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Home" xml:space="preserve" approved="no">
+        <source>Home</source>
+        <target state="translated">Principal</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LOADING" xml:space="preserve" approved="no">
+        <source>LOADING</source>
+        <target state="translated">CHARGEMENT</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Loading…" xml:space="preserve" approved="no">
+        <source>Loading…</source>
+        <target state="translated">Chargement …</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your poll has ended" xml:space="preserve" approved="no">
+        <source>Your poll has ended</source>
+        <target state="translated">Votre sondage a pris fin</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Visible for all." xml:space="preserve" approved="no">
+        <source>Visible for all.</source>
+        <target state="translated">Visible pour tous.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ boosted your post" xml:space="preserve" approved="no">
+        <source>%@ boosted your post</source>
+        <target state="translated">%@ a boosté votre message</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="home.refresh-behavior.title.show-latest-posts" xml:space="preserve" approved="no">
+        <source>Show Latest Posts</source>
+        <target state="translated">Afficher les derniers messages</target>
+        <note>Title for home timeline refresh behavior.</note>
+      </trans-unit>
+      <trans-unit id="Allow Multiple Choice" xml:space="preserve" approved="no">
+        <source>Allow Multiple Choice</source>
+        <target state="translated">Permettre le choix multiple</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Bookmark" xml:space="preserve" approved="no">
+        <source>Bookmark</source>
+        <target state="translated">Signet</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DOMAIN BLOCKED" xml:space="preserve" approved="no">
+        <source>DOMAIN BLOCKED</source>
+        <target state="translated">DOMAINES BLOQUÉS</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Favorite" xml:space="preserve" approved="no">
+        <source>Favorite</source>
+        <target state="translated">Favoris</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Learn more…" xml:space="preserve" approved="no">
+        <source>Learn more…</source>
+        <target state="translated">En savoir plus …</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unblock Domain…" xml:space="preserve" approved="no">
+        <source>Unblock Domain…</source>
+        <target state="translated">Débloquer le domaine …</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="More" xml:space="preserve" approved="no">
+        <source>More</source>
+        <target state="translated">Plus</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Messages" xml:space="preserve" approved="no">
+        <source>No Messages</source>
+        <target state="translated">Aucun message</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Posts &amp; Replies" xml:space="preserve" approved="no">
+        <source>Posts &amp; Replies</source>
+        <target state="translated">Messages et réponses</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove Bookmark" xml:space="preserve" approved="no">
+        <source>Remove Bookmark</source>
+        <target state="translated">Supprimer le signet</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sign Out" xml:space="preserve" approved="no">
+        <source>Sign Out</source>
+        <target state="translated">Se déconnecter</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ boosted" xml:space="preserve" approved="no">
+        <source>%@ boosted</source>
+        <target state="translated">%@ a boosté</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ followed you" xml:space="preserve" approved="no">
+        <source>%@ followed you</source>
+        <target state="translated">%@ vous a suivi</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ just posted" xml:space="preserve" approved="no">
+        <source>%@ just posted</source>
+        <target state="translated">%@ vient de publier</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ANIMATED" xml:space="preserve" approved="no">
+        <source>ANIMATED</source>
+        <target state="translated">ANIMÉ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add Poll Choice" xml:space="preserve" approved="no">
+        <source>Add Poll Choice</source>
+        <target state="translated">Ajouter un choix</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="BOT" xml:space="preserve" approved="no">
+        <source>BOT</source>
+        <target state="translated">BOT</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ favorited your post" xml:space="preserve" approved="no">
+        <source>%@ favorited your post</source>
+        <target state="translated">%@ a mis en favori votre message</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="A poll you have voted in has ended" xml:space="preserve" approved="no">
+        <source>A poll you have voted in has ended</source>
+        <target state="translated">Un sondage auquel vous avez participé a pris fin</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Clear Cache" xml:space="preserve" approved="no">
+        <source>Clear Cache</source>
+        <target state="translated">Vider le cache</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Content Warning" xml:space="preserve" approved="no">
+        <source>Content Warning</source>
+        <target state="translated">Avertissement de contenu</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Developer" xml:space="preserve" approved="no">
+        <source>Developer</source>
+        <target state="translated">Développeur</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Edited %@" xml:space="preserve" approved="no">
+        <source>Edited %@</source>
+        <target state="translated">Édité %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Local Timeline" xml:space="preserve" approved="no">
+        <source>Local Timeline</source>
+        <target state="translated">Fil local</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mark Media as Sensitive" xml:space="preserve" approved="no">
+        <source>Mark Media as Sensitive</source>
+        <target state="translated">Marquer le média comme sensible</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Media" xml:space="preserve" approved="no">
+        <source>Media</source>
+        <target state="translated">Média</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Media Hidden" xml:space="preserve" approved="no">
+        <source>Media Hidden</source>
+        <target state="translated">Média caché</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mentioned People Only" xml:space="preserve" approved="no">
+        <source>Mentioned People Only</source>
+        <target state="translated">Personnes mentionnées uniquement</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mentions" xml:space="preserve" approved="no">
+        <source>Mentions</source>
+        <target state="translated">Mentions</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Messages" xml:space="preserve" approved="no">
+        <source>Messages</source>
+        <target state="translated">Messages</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New Post" xml:space="preserve" approved="no">
+        <source>New Post</source>
+        <target state="translated">Nouveau message</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New Reply" xml:space="preserve" approved="no">
+        <source>New Reply</source>
+        <target state="translated">Nouvelle réponse</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Blocked Domains" xml:space="preserve" approved="no">
+        <source>No Blocked Domains</source>
+        <target state="translated">Aucun domaine bloqué</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Bookmarks" xml:space="preserve" approved="no">
+        <source>No Bookmarks</source>
+        <target state="translated">Pas de signets</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Favorites" xml:space="preserve" approved="no">
+        <source>No Favorites</source>
+        <target state="translated">Pas de favoris</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Follow Requests" xml:space="preserve" approved="no">
+        <source>No Follow Requests</source>
+        <target state="translated">Aucune demande d’abonnement</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Followers" xml:space="preserve" approved="no">
+        <source>No Followers</source>
+        <target state="translated">Aucun·e abonné·e</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Hashtags" xml:space="preserve" approved="no">
+        <source>No Hashtags</source>
+        <target state="translated">Aucun hashtag</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Notifications" xml:space="preserve" approved="no">
+        <source>No Notifications</source>
+        <target state="translated">Aucune notification</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Posts" xml:space="preserve" approved="no">
+        <source>No Posts</source>
+        <target state="translated">Pas de messages</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Results" xml:space="preserve" approved="no">
+        <source>No Results</source>
+        <target state="translated">Aucun résultat</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Users" xml:space="preserve" approved="no">
+        <source>No Users</source>
+        <target state="translated">Aucun·e utilisateur·rice</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Notifications" xml:space="preserve" approved="no">
+        <source>Notifications</source>
+        <target state="translated">Notifications</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve" approved="no">
+        <source>OK</source>
+        <target state="translated">OK</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open in Browser" xml:space="preserve" approved="no">
+        <source>Open in Browser</source>
+        <target state="translated">Ouvrir dans le navigateur</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Orange" xml:space="preserve" approved="no">
+        <source>Orange</source>
+        <target state="translated">Orange</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pink" xml:space="preserve" approved="no">
+        <source>Pink</source>
+        <target state="translated">Rose</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pinned" xml:space="preserve" approved="no">
+        <source>Pinned</source>
+        <target state="translated">Épinglé</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Poll Duration" xml:space="preserve" approved="no">
+        <source>Poll Duration</source>
+        <target state="translated">Durée du sondage</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Posts" xml:space="preserve" approved="no">
+        <source>Posts</source>
+        <target state="translated">Messages</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Public" xml:space="preserve" approved="no">
+        <source>Public</source>
+        <target state="translated">Public</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Public Timelines" xml:space="preserve" approved="no">
+        <source>Public Timelines</source>
+        <target state="translated">Fil public</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Publishing…" xml:space="preserve" approved="no">
+        <source>Publishing…</source>
+        <target state="translated">Publication …</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Purple" xml:space="preserve" approved="no">
+        <source>Purple</source>
+        <target state="translated">Violet</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unboost" xml:space="preserve" approved="no">
+        <source>Unboost</source>
+        <target state="translated">Annuler le boost</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unfavorite" xml:space="preserve" approved="no">
+        <source>Unfavorite</source>
+        <target state="translated">Retirer des favoris</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unlisted" xml:space="preserve" approved="no">
+        <source>Unlisted</source>
+        <target state="translated">Non listé</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Uploading…" xml:space="preserve" approved="no">
+        <source>Uploading…</source>
+        <target state="translated">Téléversement …</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Users" xml:space="preserve" approved="no">
+        <source>Users</source>
+        <target state="translated">Utilisateur·rice·s</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="VIDEO" xml:space="preserve" approved="no">
+        <source>VIDEO</source>
+        <target state="translated">VIDÉO</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Red" xml:space="preserve" approved="no">
+        <source>Red</source>
+        <target state="translated">Rouge</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Replies" xml:space="preserve" approved="no">
+        <source>Replies</source>
+        <target state="translated">Réponses</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reply" xml:space="preserve" approved="no">
+        <source>Reply</source>
+        <target state="translated">Réponse</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Report" xml:space="preserve" approved="no">
+        <source>Report</source>
+        <target state="translated">Signaler</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Report…" xml:space="preserve" approved="no">
+        <source>Report…</source>
+        <target state="translated">Signalement …</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Roadmap" xml:space="preserve" approved="no">
+        <source>Roadmap</source>
+        <target state="translated">Feuille de route</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Send" xml:space="preserve" approved="no">
+        <source>Send</source>
+        <target state="translated">Envoyer</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sensitive Content" xml:space="preserve" approved="no">
+        <source>Sensitive Content</source>
+        <target state="translated">Contenu sensible</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Server" xml:space="preserve" approved="no">
+        <source>Server</source>
+        <target state="translated">Serveur</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Settings" xml:space="preserve" approved="no">
+        <source>Settings</source>
+        <target state="translated">Paramètres</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Share…" xml:space="preserve" approved="no">
+        <source>Share…</source>
+        <target state="translated">Partager …</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show Less" xml:space="preserve" approved="no">
+        <source>Show Less</source>
+        <target state="translated">Afficher moins</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show Media" xml:space="preserve" approved="no">
+        <source>Show Media</source>
+        <target state="translated">Afficher le média</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show More" xml:space="preserve" approved="no">
+        <source>Show More</source>
+        <target state="translated">Afficher plus</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sign In" xml:space="preserve" approved="no">
+        <source>Sign In</source>
+        <target state="translated">Se connecter</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Toot" xml:space="preserve" approved="no">
+        <source>Toot</source>
+        <target state="translated">Pouet</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Trending" xml:space="preserve" approved="no">
+        <source>Trending</source>
+        <target state="translated">Tendances</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="UNBLOCK" xml:space="preserve" approved="no">
+        <source>UNBLOCK</source>
+        <target state="translated">DÉBLOQUER</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unblock" xml:space="preserve" approved="no">
+        <source>Unblock</source>
+        <target state="translated">Débloquer</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unblock %@?" xml:space="preserve" approved="no">
+        <source>Unblock %@?</source>
+        <target state="translated">Débloquer %@ ?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unsupported Type" xml:space="preserve" approved="no">
+        <source>Unsupported Type</source>
+        <target state="translated">Type non supporté</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Yellow" xml:space="preserve" approved="no">
+        <source>Yellow</source>
+        <target state="translated">Jaune</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="What’s on your mind?" xml:space="preserve" approved="no">
+        <source>What’s on your mind?</source>
+        <target state="translated">Qu’avez-vous en tête ?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Vote" xml:space="preserve" approved="no">
+        <source>Vote</source>
+        <target state="translated">Voter</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Visible for mentioned users only." xml:space="preserve" approved="no">
+        <source>Visible for mentioned users only.</source>
+        <target state="translated">Visible pour les utilisateur·rice·s mentionné·e·s seulement.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Visible for followers only." xml:space="preserve" approved="no">
+        <source>Visible for followers only.</source>
+        <target state="translated">Visible pour les abonné·e·s seulement.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Version" xml:space="preserve" approved="no">
+        <source>Version</source>
+        <target state="translated">Version</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="NotificationService/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A309"/>
+    </header>
+    <body>
+      </body>
+  </file>
+</xliff>
