@@ -137,7 +137,7 @@
       </trans-unit>
       <trans-unit id="App Icon" xml:space="preserve">
         <source>App Icon</source>
-        <target>App Icon</target>
+        <target>アプリアイコン</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Are you really, really sure you want to block the entire %@?" xml:space="preserve">
